@@ -8,6 +8,6 @@ A little app for creating an icon system based on [Fontawesome](http://fontaweso
 
 ```
 <svg aria-hidden="true" class="svg-icon">
-  <use xlink:href="#500px"></use>
+  <use xlink:href="#twitter"></use>
 </svg>
 ```
