@@ -1,4 +1,4 @@
-# Fontawesome SVG
+# FontAwesome SVG
 A little app for creating an icon system based on [Fontawesome](http://fontawesome.io). This system will generate an SVG defs from a directory of SVG icons. This same project can be used to convert any folder of .svg files into an SVG defs file as well :)
 
 <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/15309/fontawesome-svg.png" alt="screenshot of application" style="width: 100%; height: auto;">
