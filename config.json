@@ -1,0 +1,7 @@
+{
+	"baseDir": ".",
+	"tmpDir": ".tmp",
+	"imagesDir": "images",
+	"iconsDir": "images/icons/",
+	"svgDefsOutput": "svgDefs.svg"
+}
