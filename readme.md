@@ -7,7 +7,7 @@ A little app for creating an icon system based on [Fontawesome](http://fontaweso
 - Reference the icon in the SVG defs file like this:
 
 ```
-<svg role="img" class="svg-icon">
-  <use xlink:href="#icon-arrow-right"></use>
+<svg aria-hidden="true" class="svg-icon">
+  <use xlink:href="#500px"></use>
 </svg>
 ```
