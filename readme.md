@@ -10,7 +10,7 @@ A little app for creating an icon system based on [FontAwesome](http://fontaweso
 Files found in the `/images/icons/` folder will be converted into a single `svgdevs.svg` file found in the `/images/` folder.
 
 ## Usage
-Grab the contents from the `/images/icons/svgdefs.svg` file for your definition file.
+Grab the contents from the `/images/svgdefs.svg` file for your definition file.
 
 **Hint:** Only grab the chunk of svg code you need for your icon system to keep file size down.
 
