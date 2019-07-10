@@ -26,7 +26,7 @@ Grab the contents from the `/images/svgdefs.svg` file for your definition file.
 Reference the icon in the SVG defs file like this:
 
 ```html
-<svg aria-hidden="true" class="svg-icon">
+<svg aria-hidden="true" class="svg-icon" focusable="false">
   <use xlink:href="#twitter"></use>
 </svg>
 ```
